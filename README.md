@@ -42,16 +42,6 @@ This application provides a simple graphical user interface (GUI) to convert Pyt
    - Select the output directory where you want to save the executable.
    - Wait for the conversion process to complete. A success message will appear once the executable is created.
 
-## Screenshots
-
-### Main Interface
-
-![Main Interface](path/to/screenshot1.png)
-
-### File Selection
-
-![File Selection](path/to/screenshot2.png)
-
 ## Troubleshooting
 
 - **PyInstaller Not Found:** If the application cannot find `pyinstaller`, it will prompt you to manually locate the `pyinstaller.exe` file. Ensure `pyinstaller` is installed and try again.
